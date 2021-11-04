@@ -1,5 +1,3 @@
-[![Downloads](http://pepy.tech/badge/opencv-python)](http://pepy.tech/project/opencv-python)
-
 ## File Mod
 
 File mod is easy to perform file operations with the help of  good method names 
