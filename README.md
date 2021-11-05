@@ -21,6 +21,9 @@ and less arguments to pass
 3) This read_specific_line reads a specific line of the file and returns it as string 
 `filemodpakage.read_specific_line(filename,line)`
 
+4) This extract_numbers_from reads a numbers from the file and returns all the collection of numbers in a list
+`filemodpakage.read_specific_line(filename,line)`
+
 
 ## Run Locally
 
@@ -42,6 +45,7 @@ Install
 | Reader|Reads file| filename|    
 | writer | writes content to file|filename,content,method|
 | read_specific_line| read_specific_line |filename,line|
+|extract_numbers_from|extracts number form file|filename
 
 
 
@@ -70,6 +74,14 @@ filemodpakage.writer('demo_file.txt',content="new line ", method='w')
 import filemodpakage
 
 filemodpakage.read_specific_line("demo_file.txt",1)
+```
+
+### extract_numbers_from
+
+```javascript
+import filemodpakage
+
+filemodpakage.extract_numbers_from("demo_file.txt")
 ```
 
   
