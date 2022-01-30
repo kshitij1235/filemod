@@ -8,7 +8,7 @@ and less arguments to pass
 1. use `pip install file-mod`
 2. Make sure that your `pip` version is updated `pip install --upgrade pip`. 
 3. Select the correct package for your environment:
-4. Import the package: ``import filemodpakage``
+4. Import the package: ``import filemod``
 
 ### Functions in the module 
 
@@ -42,7 +42,7 @@ Clone the project
 Install
 
 ```bash
-  pip install file-mod
+  pip install filemod
 ```
 ## List of Functions
 
