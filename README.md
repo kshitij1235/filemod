@@ -6,6 +6,7 @@ and less arguments to pass
 ### Bug fix 
 
 1) readme typo fix
+2) Big increase in reading speed
 
 
 ### Installation and Usage
